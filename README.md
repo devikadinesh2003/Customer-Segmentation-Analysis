@@ -1,5 +1,5 @@
 
-#  Mall Customer Segmentation Analysis using Unsupervised Machine Learning Techniques
+#  Mall Customer Segmentation Analysis using Clustering Techniques
 
 
 
